@@ -2,3 +2,4 @@ create s1 to see fetch and merge
 handle push command
 
 create s2
+update s2 for second remote
